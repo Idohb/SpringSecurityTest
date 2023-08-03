@@ -4,7 +4,7 @@ package com.springsecuritytest.springsecuritytest.entity;
 import org.hibernate.annotations.LazyCollection;
 import org.hibernate.annotations.LazyCollectionOption;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import java.util.Set;
 
 @Entity

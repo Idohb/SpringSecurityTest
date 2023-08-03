@@ -1,7 +1,7 @@
 package com.springsecuritytest.springsecuritytest.entity;
 
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 public class Role {
